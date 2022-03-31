@@ -34,6 +34,7 @@ int main()
 
     std::cout << i << endl;
     std::cout << "Hello World!\n";
+    std::cout << "Git\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
